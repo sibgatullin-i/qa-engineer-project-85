@@ -1,0 +1,32 @@
+---
+- summary: |
+    Проверка регистрации 
+  status: pass
+
+- summary: |
+    Проверка авторизации на через e-mail
+  status: pass
+
+- summary: |
+    Проверка повторной регистрации
+  status: pass
+
+- summary: |
+    Проверка авторизации незарегестрированного пользователя
+  status: pass
+
+- summary: |
+    Проверка создания игры с ботом
+  status: pass
+
+- summary: |
+    Проверка привязки к аккаунту учётки GitHub
+  status: pass
+
+- summary: |
+    Проверка смены ЯП в баттлах
+  status: pass
+
+- summary: |
+    Проверка отвязки от аккаунта учётки GitHub
+  status: fail
